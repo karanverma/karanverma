@@ -33,9 +33,9 @@ My work spans software engineering, AI research, open-source, and technical writ
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
   
 **AI Governance Series**
-- [Part 1 — Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/)
-- [Part 2 — Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/)
-- [Part 3 — Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/)
+- [Part 1 - Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/)
+- [Part 2 - Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/)
+- [Part 3 - Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/)
 
 ### 🌍 AI Safety & Governance
 
