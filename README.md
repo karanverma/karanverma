@@ -39,5 +39,5 @@ My work spans software engineering, AI research, open-source, and technical writ
 
 ### 🌍 AI Safety & Governance
 
+- [Traduttore Traditore? LLM Language-Dependent Safety Answers in Community Context](https://apartresearch.com/project/traduttore-traditore-llm-languagedependent-safety-answers-in-community-contexts-d8n7) - Multilingual AI safety research from Apart Research's Global South Hackathon, evaluating LLM responses across English, Hindi, Punjabi, and Tamil in culturally grounded community contexts.
 - [Who Should Decide When Frontier AI Systems Are Deployed?](https://open.substack.com/pub/karanverma19/p/who-should-decide-when-frontier-ai)
-
