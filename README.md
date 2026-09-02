@@ -30,8 +30,9 @@ My work spans software engineering, AI research, open-source, and technical writ
 
 ## ✍️ Selected Writing
 
-### 🐳 Official Docker
+### 🐳 Official Docker Blog
 
+- [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/)
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
   
 **AI Governance Series**
